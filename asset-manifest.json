@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/material_ui_react_demo/static/js/main.81b54b5f.chunk.js",
+    "main.js.map": "/material_ui_react_demo/static/js/main.81b54b5f.chunk.js.map",
+    "runtime-main.js": "/material_ui_react_demo/static/js/runtime-main.6c160ddd.js",
+    "runtime-main.js.map": "/material_ui_react_demo/static/js/runtime-main.6c160ddd.js.map",
+    "static/js/2.f87495c3.chunk.js": "/material_ui_react_demo/static/js/2.f87495c3.chunk.js",
+    "static/js/2.f87495c3.chunk.js.map": "/material_ui_react_demo/static/js/2.f87495c3.chunk.js.map",
+    "index.html": "/material_ui_react_demo/index.html",
+    "static/js/2.f87495c3.chunk.js.LICENSE.txt": "/material_ui_react_demo/static/js/2.f87495c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c160ddd.js",
+    "static/js/2.f87495c3.chunk.js",
+    "static/js/main.81b54b5f.chunk.js"
+  ]
+}

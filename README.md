@@ -44,7 +44,7 @@
     <a href="https://github.com/infiniteoo/material_ui_react_demo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/infiniteoo/material_ui_react_demo">View Demo</a>
+    <a href="https://infiniteoo.github.io/material_ui_react_demo/">View Demo</a>
     ·
     <a href="https://github.com/infiniteoo/material_ui_react_demo/issues">Report Bug</a>
     ·
